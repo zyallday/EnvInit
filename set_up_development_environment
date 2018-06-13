@@ -1,0 +1,133 @@
+
+# install brew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# install for rbevn
+brew install rbenv
+
+# install mac app store update tools
+brew install mas
+
+brew cask install 1password
+brew cask install dropbox
+
+# install chrome
+brew cask install google-chrome
+
+# install iterm
+brew cask install iterm2
+
+brew cask install surge
+
+# install apktool
+brew install apktool
+brew install cask jd-gui
+brew install dex2jar
+
+
+# install development tools
+brew cask install sourcetree
+brew cask install robo-3t
+brew cask install paw
+brew cask install intellij-idea
+brew cask install dash
+brew cask install clion
+brew cask install sequel-pro
+brew cask install charles
+
+# install productivity tools
+brew cask install bartender
+brew cask install cleanmymac
+brew cask install launchbar
+brew cask install alfred
+brew cask install unlox
+brew cask install istat-menus
+brew cask install imazing
+
+# install 
+brew cask install licecap
+brew cask install steam
+brew cask install iina
+brew cask install boom-3d
+
+
+# install app from app store
+
+# Trello (2.10.4)
+mas install 1278508951 
+# Things3 (3.6)
+mas install 904280696 
+# WeChat (2.3.15)
+mas install 836500024 
+# Paste (2.3.8)
+mas install 967805235 
+# HandShaker (2.1.1)
+mas install 1012930195 
+# Speedtest (1.5)
+mas install 1153157709 
+# Reeder (3.1.2)
+mas install 880001334 
+# MindNode (5.0.11)
+mas install 1289197285 
+# MWeb (2.2.9)
+mas install 954188948 
+# Pixelmator (3.7)
+mas install 407963104 
+# App Language Chooser (1.0)
+mas install 451732904 
+# Xcode (9.4)
+mas install 497799835 
+# Sip (4.5.2)
+mas install 507257563 
+# Typeeto (1.4.3)
+mas install 970502923 
+# Tweetbot (2.5.6)
+mas install 557168941 
+# Noizio (1.6)
+mas install 928871589 
+# Clear (1.1.7)
+mas install 504544917 
+# Window Tidy (2.1.5)
+mas install 456609775 
+# Simplenote (1.3.3)
+mas install 692867256 
+# Polarr Photo Editor Pro (5.0.3)
+mas install 1058273036 
+# Magnet (2.1.0)
+mas install 441258766 
+# The Unarchiver (3.11.6)
+mas install 425424353 
+# Spark (2.0.4)
+mas install 1176895641 
+# SnippetsLab (1.7.4)
+mas install 1006087419 
+# AJA System Test Lite (12.4.3)
+mas install 1092006274 
+# Pages (7.0.1)
+mas install 409201541 
+# Day One (2.7)
+mas install 1055511498 
+# Telegram (3.9.2)
+mas install 747648890 
+# Slack (3.2.0)
+mas install 803453959 
+# DaisyDisk (4.6.1)
+mas install 411643860 
+# MindNode (2.5.7)
+mas install 992076693 
+# CheatSheet (1.0.3)
+mas install 529456740 
+# Numbers (5.0.1)
+mas install 409203825 
+# LINE (5.8.0)
+mas install 539883307 
+# 1Password (6.8.9)
+mas install 443987910 
+# Keynote (8.0.1)
+mas install 409183694 
+# Bear (1.5.5)
+mas install 1091189122 
+# Send Anywhere (8.4.24)
+mas install 1016349934 
+# Shazam (1.2.5)
+mas install 897118787 
